@@ -1,0 +1,18 @@
+
+{
+    "name":"ma new track", 
+    "locations":[
+        { 
+            "timestamp" :100000,
+            "coords": { 
+                "lattitude": 100,
+                "longitude":100,
+                 "altitude":100,
+                  "accuracy":100,
+                  "heading":100,
+                "speed":100
+            }
+        }
+    ]
+}
+  
